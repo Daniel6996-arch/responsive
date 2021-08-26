@@ -1,0 +1,21 @@
+body{
+background-color: hotpink;
+margin: 0px;
+}
+nav{
+    background-color: grey;
+    padding: 5vw 20vw 5vw 80vw;
+    position: fixed;
+    top: 0px;
+}
+.text-align-center{
+ position: relative;
+ top: 15vw;
+ z-index: -1;
+}
+img{
+    float: left;
+    height: auto;
+    width: 40vw;
+}
+
