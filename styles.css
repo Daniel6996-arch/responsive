@@ -4,13 +4,13 @@ margin: 0px;
 }
 nav{
     background-color: grey;
-   
+    width: 100vw;
     position: fixed;
     top: 0px;
 }
 .text-align-center{
  position: relative;
- top: 15vw;
+ top: 10vw;
  z-index: -1;
 }
 img{
